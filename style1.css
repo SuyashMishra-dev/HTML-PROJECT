@@ -1,0 +1,148 @@
+body{
+	margin:0px auto;
+
+}
+.first
+{
+
+	height:15%;
+	width:100%;
+	background-color:#fff;
+	opacity: 0.3;
+}
+
+.second
+{
+	height:400px;
+	width:100%;
+	color:white;
+	margin-top:-21px;
+	background-image: url('img2.jpg');
+	background-size: cover;
+}
+.third
+{
+	padding-top:20px; 
+	height:220px;
+	width:100%;
+	margin-left:20px; 
+}
+.fourth
+{
+height:500px;
+width:100%;
+background-color:#F8F5D8;
+color: red;
+text-align: center;
+padding-top:25px;
+}
+.fifth
+{
+	height:700px;
+	width:100%;
+	background:red;
+	color: white;
+
+}
+.fifth div{
+	height: 100%;
+	width: 60%;
+	margin-left:25%;
+	background-color:orange;
+	padding-left: 20px;
+}
+ul{
+	list-style-type:none;
+	float: right;
+}
+.li-design{
+	float: left;
+	padding:8px;
+	font-family:monospace;
+	color: white;
+	margin:0px 5px 0px 5px;
+}
+.align-logo{
+	float: left;
+	color: red;
+	font-family:cursive;
+	font-size:20px;
+	font-weight: bold;
+	margin:15px 0px 0px  20px;
+}
+li:hover{
+	background-color:white;
+	color:black;
+}
+.design-h
+{
+ padding-top: 40px;
+ margin-left: 20px; 
+}
+.design-button
+{
+	margin-left:20px; 
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	padding: 7px 15px 7px 15px;
+}
+.design-button2{
+	background-color: white;
+	color: red;
+	border:1px solid red;
+	padding: 7px 15px 7px 15px;
+}
+#txt_name{
+	height:6%;
+	width:94%;
+	border: 1px solid white;
+	padding: 5px;
+	margin: 0;
+	}
+#txt_name input{
+	height: 100%;
+    width: 100%;
+    outline: none;
+    padding: 0;
+    margin: 0;
+    border-radius: 3px;
+    border: none;
+    text-indent: 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+#text_area{
+	height:40%;
+	width:94%;
+	border: 1px solid white;
+	margin-left: 1%;
+	padding: 0;
+}
+#text_area>textarea{
+	height: 100%;
+	width: 100%;
+	outline: none;
+	margin: 0;
+	padding:0;
+	resize: none;
+	border:none;
+}
+.f4_1{
+	height: 45%;
+	width: 100%;
+	background: yellow;
+
+}
+.f4_1>div{
+	height: 94%;
+    width: 16%;
+    background-color: red;
+    border-radius: 100%;
+    position: relative;
+    top: 5px;
+    /* padding: 0px; */
+    background-size: cover;
+    left: 43%;
+    background-image: url(dips.jpg);
+}
